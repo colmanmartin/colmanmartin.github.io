@@ -1,0 +1,19 @@
+h1 {font-family: arial; color: red}
+	body {
+		background-color:#a3d5d3;
+		margin-left: 80px;
+		margin-right: 80px;
+		border: 4px dotted red;
+		border-top-left-radius: 20px;
+		border-top-right-radius: 20px;
+		border-bottom-right-radius: 20px;
+		border-bottom-left-radius: 20px;
+		padding: 10px 10px 10px 10px;
+		font-family: sans serif;
+		text-align:center;
+		color:#593d87;}
+		
+		<p style="font-weight:bold; font-style:italic; font-size: 14pt; color: green;">
+
+
+</style>
