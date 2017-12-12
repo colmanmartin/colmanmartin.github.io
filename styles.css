@@ -2,6 +2,9 @@
 h1 {font-family: arial; color: red}
 
 	body {
+		width: 90%;
+		min-width: 400px;
+		max-width: 1250px;
 		background-color:#a3d5d3;
 		margin-left: 80px;
 		margin-right: 80px;
