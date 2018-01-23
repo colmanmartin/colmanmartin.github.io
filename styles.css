@@ -6,7 +6,7 @@ h1 {font-family: arial; color: red}
 		min-width: 400px;
 		max-width: 1250px;
 		background-color:#a3d5d3;
-		margin:0 auto;
+		margin:10px auto;
 		border: 4px dotted red;
 		border-top-left-radius: 20px;
 		border-top-right-radius: 20px;
