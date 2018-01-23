@@ -2,12 +2,11 @@
 h1 {font-family: arial; color: red}
 
 	body {
-		width: 90%;
+		width: 80%;
 		min-width: 400px;
 		max-width: 1250px;
 		background-color:#a3d5d3;
-		margin-left: 10px;
-		margin-right: 10px;
+		margin:0 auto;
 		border: 4px dotted red;
 		border-top-left-radius: 20px;
 		border-top-right-radius: 20px;
